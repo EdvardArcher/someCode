@@ -1,0 +1,5 @@
+use mymake.sh to compile
+for example:
+    sh mymake.sh testSE.cpp
+
+then output a.out can run
